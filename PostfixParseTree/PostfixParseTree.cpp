@@ -15,32 +15,60 @@ PostfixParseTree ::PostfixParseTree(int len, string s) {
     Node *root;
     Node *b1,*b2;
     stack <Node *> stack1;
+    cout<<"parseTreeClass "<<__LINE__<<endl;
 
     for (int i = 0; i < len; i++) {
-        if(!isSymbol(arr[i])) {
+        if((arr[i]!='~')&&(arr[i]!='>')&&(arr[i]!='V')&&(arr[i]!='^')) {
+            cout<<"parseTreeClass "<<__LINE__<<endl;
 
             root=newBranch(arr[i]);
             stack1.push(root);
-        } else {
+        }
+        else if(arr[i]=='~') {
+            cout<<"parseTreeClass "<<__LINE__<<endl;
 
             root=newBranch(arr[i]);
+            cout<<"parseTreeClass "<<__LINE__<<endl;
 
-                if(!stack1.empty()) {
-                    b1=stack1.top();
-                    stack1.pop();
-                }
-
-                if(!stack1.empty()){
-                    b2=stack1.top();
-                    stack1.pop();
-                }
+            if(!stack1.empty()) {
+                b1=stack1.top();
+                stack1.pop();
+            }
 
 
+
+
+            cout<<"parseTreeClass "<<__LINE__<<endl;
+            root->left=b1;
+            root->right = NULL;
+            stack1.push(root);
+            cout<<"parseTreeClass "<<__LINE__<<endl;
+        }
+        else {
+            cout<<"parseTreeClass "<<__LINE__<<endl;
+
+            root=newBranch(arr[i]);
+            cout<<"parseTreeClass "<<__LINE__<<endl;
+
+            if(!stack1.empty()) {
+                b1=stack1.top();
+                stack1.pop();
+            }
+
+            if(!stack1.empty()){
+                b2=stack1.top();
+                stack1.pop();
+            }
+
+
+            cout<<"parseTreeClass "<<__LINE__<<endl;
             root->left=b1;
             root->right=b2;
             stack1.push(root);
+            cout<<"parseTreeClass "<<__LINE__<<endl;
         }
     }
+    cout<<"parseTreeClass "<<__LINE__<<endl;
 
 
     root=stack1.top();
@@ -50,8 +78,6 @@ PostfixParseTree ::PostfixParseTree(int len, string s) {
 
 
 bool PostfixParseTree ::isSymbol(char a) {
-
-
     if((a=='~') || (a=='V') || (a=='^') || (a=='>') ) {
         return true;
     }
