@@ -18,10 +18,10 @@ TreeInfix::TreeInfix(Node *tree) {
 //Recursively traverses through parse tree InOrder
 void TreeInfix::traverseInOrder(Node *tree) {
     if(tree){
-        traverseInOrder(tree->left);
+        traverseInOrder(tree->right);
         store<<tree->data;
         cout<<tree->data<<" hh"<<endl;
-        traverseInOrder(tree->right);
+        traverseInOrder(tree->left);
     }
 
 }
