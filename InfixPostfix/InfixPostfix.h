@@ -8,7 +8,7 @@
 #include <string>
 
 using namespace std;
-///defines class named InfixPostfix
+///class named InfixPostfix
 /**
  * this class contains methods used to
  * convert a formula given in infix notation to a formula represented in postfix 

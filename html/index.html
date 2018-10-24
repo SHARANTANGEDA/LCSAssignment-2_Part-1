@@ -87,62 +87,55 @@ $(document).ready(function(){initNavTree('index.html','');});
 <div class="header">
   <div class="headertitle">
 <div class="title">My Project Documentation</div>  </div>
-
-
 </div><!--header-->
 <div class="contents">
 </div><!-- contents -->
 
+<div class="groupHeader" style="color: #3D0B6F">
+  <h1>Project Description</h1>
+</div>
 
-    <div class="groupHeader" style="color: #3D0B6F">
-        <h1>Project Description</h1>
-    </div>
+<div class="groupHeader" style="color: #3D0B6F">
+  <h2>    Aim</h2>
+</div>
+<div class="groupText" align="left">
+  <p>To create a parse tree of a well defined propositional logic formula</p>
+</div>
 
-    <div class="groupHeader" style="color: #3D0B6F">
-        <h2>    Aim</h2>
-    </div>
-    <div class="groupText" align="left">
-        <p>To create a parse tree of a well defined propositional logic formula</p>
-    </div>
+<div class="groupHeader" style="color: #3D0B6F">
+  <h2>Assumptions Made</h2>
+</div>
+<div class="groupText" align="left">
+  <p>1.Each propositional formula should begin and end with parenthesis</p>
+  <h3> examples: </h3>
+  <p>(i) (a^b) is valid</p>
+  <p>(ii) a^b is invalid</p>
+  <p>(iii) ((a^b)^(c^d)) is valid</p>
+  <p>(iv)  (a^b)^(c^d)  is invalid</p>
+  <p> </p>
+  <p>2.In case of negation ormultiple negations to a literal/formula, each negation is enclosed within set of parenthesis.</p>
+  <h3>examples:</h3>
+  <p>(i) ~p is invalid</p>
+  <p>(ii) (~p) is valid</p>
+  <p>(iii) (~(~p)) is valid</p>
+  <p>(iv) (~~p) is invalid</p>
+</div>
 
-    <div class="groupHeader" style="color: #3D0B6F">
-        <h2>Assumptions Made</h2>
-    </div>
-    <div class="groupText" align="left">
-        <p>1.Each propositional formula should begin and end with parenthesis</p>
-        <h3> examples: </h3>
-        <p>(i) (a^b) is valid</p>
-        <p>(ii) a^b is invalid</p>
-        <p>(iii) ((a^b)^(c^d)) is valid</p>
-        <p>(iv)  (a^b)^(c^d)  is invalid</p>
-        <p> </p>
-        <p>2.In case of negation ormultiple negations to a literal/formula, each negation is enclosed within set of parenthesis.</p>
-        <h3>examples:</h3>
-        <p>(i) ~p is invalid</p>
-        <p>(ii) (~p) is valid</p>
-        <p>(iii) (~(~p)) is valid</p>
-        <p>(iv) (~~p) is invalid</p>
-    </div>
-
-    <div class="groupHeader" style="color: #3D0B6F">
-        <h2>Procedure</h2>
-    </div>
-    <div class="groupText" align="left">
-        <p>1.Convert given well formed formula(in Infix form) to Postfix form.</p>
-        <p>2.Convert the postfix expression to a rooted binary parse tree.</p>
-        <p>3.By traversing parse tree inOrder generate inFix expression.</p>
-    </div>
-    <div class="groupHeader" style="color: #3D0B6F">
-        <h2>Observations</h2>
-    </div>
-    <div class="groupText" align="left">
-        <p>click <a style="color: #FF0000" href="Observations/Test_Case-1.html">here</a> to access the test cases</p>
-    </div>
-
-
+<div class="groupHeader" style="color: #3D0B6F">
+  <h2>Procedure</h2>
+</div>
+<div class="groupText" align="left">
+  <p>1.Convert given well formed formula(in Infix form) to Postfix form.</p>
+  <p>2.Convert the postfix expression to a rooted binary parse tree.</p>
+  <p>3.By traversing parse tree inOrder generate inFix expression.</p>
+</div>
+<div class="groupHeader" style="color: #3D0B6F">
+  <h2>Observations</h2>
+</div>
+<div class="groupText" align="left">
+  <p>click <a style="color: #FF0000" href="Observations/Test_Case-1.html">here</a> to access the test cases</p>
+</div>
 </div><!-- doc-content -->
-
-
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
@@ -151,8 +144,5 @@ $(document).ready(function(){initNavTree('index.html','');});
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.14 </li>
   </ul>
 </div>
-
-
-
 </body>
 </html>

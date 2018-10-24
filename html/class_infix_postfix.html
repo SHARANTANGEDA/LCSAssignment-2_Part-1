@@ -93,7 +93,7 @@ $(document).ready(function(){initNavTree('class_infix_postfix.html','');});
 </div><!--header-->
 <div class="contents">
 
-<p>defines class that takes input infix and outputs postfix formula  
+<p>class named <a class="el" href="class_infix_postfix.html" title="class named InfixPostfix ">InfixPostfix</a>  
  <a href="class_infix_postfix.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="_infix_postfix_8h_source.html">InfixPostfix.h</a>&gt;</code></p>
@@ -104,16 +104,17 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a76d8af3bfa3218955c3384b8cd65b0e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">constructor of class  <a href="#a76d8af3bfa3218955c3384b8cd65b0e4">More...</a><br /></td></tr>
 <tr class="separator:a76d8af3bfa3218955c3384b8cd65b0e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc5c34de037d5a8ed62fe8e83048d15a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_infix_postfix.html#afc5c34de037d5a8ed62fe8e83048d15a">precedence</a> (char a)</td></tr>
-<tr class="memdesc:afc5c34de037d5a8ed62fe8e83048d15a"><td class="mdescLeft">&#160;</td><td class="mdescRight">method declaration with return type  <a href="#afc5c34de037d5a8ed62fe8e83048d15a">More...</a><br /></td></tr>
+<tr class="memdesc:afc5c34de037d5a8ed62fe8e83048d15a"><td class="mdescLeft">&#160;</td><td class="mdescRight">method declaration with return type int  <a href="#afc5c34de037d5a8ed62fe8e83048d15a">More...</a><br /></td></tr>
 <tr class="separator:afc5c34de037d5a8ed62fe8e83048d15a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad4ab8b3702a1fe5eba1ead2ab3cfcfd4"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_infix_postfix.html#ad4ab8b3702a1fe5eba1ead2ab3cfcfd4">getPostFix</a> ()</td></tr>
 <tr class="memdesc:ad4ab8b3702a1fe5eba1ead2ab3cfcfd4"><td class="mdescLeft">&#160;</td><td class="mdescRight">method declaration with return type string  <a href="#ad4ab8b3702a1fe5eba1ead2ab3cfcfd4">More...</a><br /></td></tr>
 <tr class="separator:ad4ab8b3702a1fe5eba1ead2ab3cfcfd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>defines class that takes input infix and outputs postfix formula </p>
+<div class="textblock"><p>class named <a class="el" href="class_infix_postfix.html" title="class named InfixPostfix ">InfixPostfix</a> </p>
+<p>this class contains methods used to convert a formula given in infix notation to a formula represented in postfix </p>
 
-<p class="definition">Definition at line <a class="el" href="_infix_postfix_8h_source.html#l00012">12</a> of file <a class="el" href="_infix_postfix_8h_source.html">InfixPostfix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_infix_postfix_8h_source.html#l00016">16</a> of file <a class="el" href="_infix_postfix_8h_source.html">InfixPostfix.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a76d8af3bfa3218955c3384b8cd65b0e4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a76d8af3bfa3218955c3384b8cd65b0e4">&#9670;&nbsp;</a></span>InfixPostfix()</h2>
@@ -142,48 +143,16 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>constructor of class </p>
-<p>calling constructor of class <a class="el" href="class_infix_postfix.html" title="defines class that takes input infix and outputs postfix formula ">InfixPostfix</a> </p>
-<p>&lt;creating a character stack 's'</p>
-<p>&lt;creating a stringstream called post <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
- iterating through the character array 'arr[]'</p>
-<p>if 'i'th element of 'arr[]' is not an operator symbol then append 'arr[i]' to post</p>
-<p>if stack 's' is empty and 'i'th element of 'arr[]' is an operator push 'arr[i]' onto top of stack s <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
- if stack 's' is not empty and 'i'th element of 'arr[]' is an operator we proceed based on type of operator </p><pre class="fragment">if 'arr[i]' is '('
-</pre><p> push 'arr[i]' onto top of stack s</p>
-<p>else if 'arr[i]' is ')'</p>
-<p>traverse down the stack s by appending top most element to 'post' and then 'pop'ing stack until we reach a '('</p>
-<p>then remove '(' from top of stack</p>
-<p>if arr[i] is any other operator</p>
-<p>we traverse down the stack s by appending top most element of stack to 'post' and then 'pop'ing stack 's' until precedence of top of stack is less than precedence of 'arr[i]' (function for precedence is is defined later )</p>
-<p>then push arr[i] to top of stack</p>
-<p>After completion of above loop append the topmost element of stack 's' to 'post' until stack is empty</p>
-<p>&lt;creating a variable 'string' that is assigned to the string stored in the stringstream 'post'. <br />
- &lt;printing the required post fix value </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">len</td><td>- integer representing length of second input parameter of constructor (a character string) </td></tr>
+    <tr><td class="paramname">arr[]</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<p>&lt;printing the required post fix value </p>
 
-<p class="definition">Definition at line <a class="el" href="_infix_postfix_8cpp_source.html#l00013">13</a> of file <a class="el" href="_infix_postfix_8cpp_source.html">InfixPostfix.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_infix_postfix_8cpp_source.html#l00016">16</a> of file <a class="el" href="_infix_postfix_8cpp_source.html">InfixPostfix.cpp</a>.</p>
 
 </div>
 </div>
@@ -204,9 +173,9 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>method declaration with return type string </p>
-<p>defining a method of class <a class="el" href="class_infix_postfix.html" title="defines class that takes input infix and outputs postfix formula ">InfixPostfix</a> that returns the value of postfix of a given object of same class </p>
+<p>returns postfix representation of initially given infix formula in the form of a string </p>
 
-<p class="definition">Definition at line <a class="el" href="_infix_postfix_8cpp_source.html#l00105">105</a> of file <a class="el" href="_infix_postfix_8cpp_source.html">InfixPostfix.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_infix_postfix_8cpp_source.html#l00110">110</a> of file <a class="el" href="_infix_postfix_8cpp_source.html">InfixPostfix.cpp</a>.</p>
 
 </div>
 </div>
@@ -226,15 +195,15 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>method declaration with return type </p>
-<p>defining the function for precedence(a switch function with 5 cases) </p>
-<p>case 1</p>
-<p>case 2</p>
-<p>case 3</p>
-<p>case 4</p>
-<p>case 5 </p>
+<p>method declaration with return type int </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">a</td><td>-where a is character representing a symbol (i.e '~', '(', 'V', '^', '&gt;') a five case switch where for each different symbol a different precedence value is returned </td></tr>
+  </table>
+  </dd>
+</dl>
 
-<p class="definition">Definition at line <a class="el" href="_infix_postfix_8cpp_source.html#l00085">85</a> of file <a class="el" href="_infix_postfix_8cpp_source.html">InfixPostfix.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_infix_postfix_8cpp_source.html#l00093">93</a> of file <a class="el" href="_infix_postfix_8cpp_source.html">InfixPostfix.cpp</a>.</p>
 
 </div>
 </div>

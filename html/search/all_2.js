@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['newbranch',['newBranch',['../class_postfix_parse_tree.html#a9f7d93c6ee8a58759eaa59b7e7b5a267',1,'PostfixParseTree']]],
-  ['node',['Node',['../struct_node.html',1,'']]]
+  ['infixpostfix',['InfixPostfix',['../class_infix_postfix.html',1,'InfixPostfix'],['../class_infix_postfix.html#a76d8af3bfa3218955c3384b8cd65b0e4',1,'InfixPostfix::InfixPostfix()']]],
+  ['issymbol',['isSymbol',['../class_postfix_parse_tree.html#a4235f5a3d7e575b3e78b3ceef188f577',1,'PostfixParseTree']]]
 ];

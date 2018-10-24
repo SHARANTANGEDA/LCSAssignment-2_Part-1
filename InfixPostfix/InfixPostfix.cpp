@@ -88,7 +88,7 @@ InfixPostfix::InfixPostfix(int len, char arr[])
 /**
  * @param a -where a is character representing a symbol
  *  (i.e '~', '(', 'V', '^', '>')
- * a five case switch where for each different symbol a different of precedence is allotted
+ * a five case switch where for each different symbol a different precedence value is returned
 */
 int InfixPostfix::precedence(char a) {
     switch (a) { 
