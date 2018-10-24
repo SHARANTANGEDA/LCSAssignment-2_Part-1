@@ -93,7 +93,7 @@ $(document).ready(function(){initNavTree('class_postfix_parse_tree.html','');});
 </div><!--header-->
 <div class="contents">
 
-<p>creating class PostfixParsetree  
+<p>class named PostfixParsetree  
  <a href="class_postfix_parse_tree.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="_postfix_parse_tree_8h_source.html">PostfixParseTree.h</a>&gt;</code></p>
@@ -109,14 +109,13 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a9f7d93c6ee8a58759eaa59b7e7b5a267"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_node.html">Node</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_postfix_parse_tree.html#a9f7d93c6ee8a58759eaa59b7e7b5a267">newBranch</a> (char store)</td></tr>
 <tr class="memdesc:a9f7d93c6ee8a58759eaa59b7e7b5a267"><td class="mdescLeft">&#160;</td><td class="mdescRight">method of class that returns a pointer to a node  <a href="#a9f7d93c6ee8a58759eaa59b7e7b5a267">More...</a><br /></td></tr>
 <tr class="separator:a9f7d93c6ee8a58759eaa59b7e7b5a267"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1bb289c6395788cce1a00e37f7f173ba"><td class="memItemLeft" align="right" valign="top"><a id="a1bb289c6395788cce1a00e37f7f173ba"></a>
-<a class="el" href="struct_node.html">Node</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_postfix_parse_tree.html#a1bb289c6395788cce1a00e37f7f173ba">getTree</a> ()</td></tr>
-<tr class="memdesc:a1bb289c6395788cce1a00e37f7f173ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">method of class that returns a pointer to a node <br /></td></tr>
+<tr class="memitem:a1bb289c6395788cce1a00e37f7f173ba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_node.html">Node</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_postfix_parse_tree.html#a1bb289c6395788cce1a00e37f7f173ba">getTree</a> ()</td></tr>
+<tr class="memdesc:a1bb289c6395788cce1a00e37f7f173ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">method of class that returns a pointer to a node  <a href="#a1bb289c6395788cce1a00e37f7f173ba">More...</a><br /></td></tr>
 <tr class="separator:a1bb289c6395788cce1a00e37f7f173ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>creating class PostfixParsetree </p>
-<p>this class contains the abstract methods that will be used to convert a postfix expression to a parse tree </p>
+<div class="textblock"><p>class named PostfixParsetree </p>
+<p>this class contains the methods that will be used to convert a postfix expression to a parse tree </p>
 
 <p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8h_source.html#l00029">29</a> of file <a class="el" href="_postfix_parse_tree_8h_source.html">PostfixParseTree.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -149,17 +148,41 @@ Public Member Functions</h2></td></tr>
 <p>constructor of class </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">len</td><td>an integer that is supposed to represent length of second parameter </td></tr>
-    <tr><td class="paramname">s</td><td>a string that is supposed to be a formula in postfix representation </td></tr>
+    <tr><td class="paramname">len</td><td>-an integer that is supposed to represent length of second parameter, a string 's' </td></tr>
+    <tr><td class="paramname">s</td><td>-a string that is supposed to be a formula in postfix representation</td></tr>
   </table>
   </dd>
 </dl>
+<p>we traverse through the string inputted. And generate a binary tree(parse tree) whose root node is pointed to by a member variable. </p>
 
-<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00012">12</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00016">16</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a1bb289c6395788cce1a00e37f7f173ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1bb289c6395788cce1a00e37f7f173ba">&#9670;&nbsp;</a></span>getTree()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_node.html">Node</a> * PostfixParseTree::getTree </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>method of class that returns a pointer to a node </p>
+<p>gets pointer to root node of binary tree(parse tree) and returns it.<br />
+it takes no no parameters. </p>
+
+<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00084">84</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
+
+</div>
+</div>
 <a id="a4235f5a3d7e575b3e78b3ceef188f577"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4235f5a3d7e575b3e78b3ceef188f577">&#9670;&nbsp;</a></span>isSymbol()</h2>
 
@@ -177,14 +200,14 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>method of class that returns a Boolean value </p>
-<p>checks whether given input character is a symbol or not </p><dl class="params"><dt>Parameters</dt><dd>
+<p>checks whether given input character is a symbol or not (i.e'V', '&gt;' ,^' ) </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">a</td><td>a character </td></tr>
+    <tr><td class="paramname">a</td><td>-a character that is supposed to be checked </td></tr>
   </table>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00080">80</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00070">70</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
 
 </div>
 </div>
@@ -205,14 +228,14 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>method of class that returns a pointer to a node </p>
-<dl class="params"><dt>Parameters</dt><dd>
+<p>creates a pointer that points to a new node </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">store</td><td>a character </td></tr>
+    <tr><td class="paramname">store</td><td>-a character that is stored in the newly created node </td></tr>
   </table>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00088">88</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_postfix_parse_tree_8cpp_source.html#l00075">75</a> of file <a class="el" href="_postfix_parse_tree_8cpp_source.html">PostfixParseTree.cpp</a>.</p>
 
 </div>
 </div>
