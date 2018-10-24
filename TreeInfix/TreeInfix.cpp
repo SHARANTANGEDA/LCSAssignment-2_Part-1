@@ -11,7 +11,7 @@
  * @param tree a pointer to root node of a parse tree (a binary tree)
 */
 TreeInfix::TreeInfix(Node *tree) {
-    traverseInOrder(tree);
+    traverseInOrder(tree); 
 
     string s=store.str();
 

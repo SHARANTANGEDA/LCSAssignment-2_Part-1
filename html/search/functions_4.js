@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['traverseinorder',['traverseInOrder',['../class_tree_infix.html#ad4345419c23748a9fb88285025320558',1,'TreeInfix']]],
-  ['treeinfix',['TreeInfix',['../class_tree_infix.html#affc492c1340f7fa68e3013c35c2c6e24',1,'TreeInfix']]]
+  ['postfixparsetree',['PostfixParseTree',['../class_postfix_parse_tree.html#afc72e9b596a8197db9cd7308d1e6c73e',1,'PostfixParseTree']]],
+  ['precedence',['precedence',['../class_infix_postfix.html#afc5c34de037d5a8ed62fe8e83048d15a',1,'InfixPostfix']]]
 ];

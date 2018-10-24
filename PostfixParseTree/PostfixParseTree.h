@@ -11,7 +11,7 @@ using namespace std;
 ///to create a binary tree
 /**
  * we create a data structure ,Node, that points to
- * the node to its left and the node to its right
+ * the node to its left and the node to its right\n
  * this is the fundamental building block of a tree 
 */
 struct Node {
@@ -21,7 +21,7 @@ struct Node {
 };
 
 
-/// class named PostfixParsetree
+/// class named PostfixParseTree
 /**
  * this class contains the methods that will be used to
  * convert a postfix expression to a parse tree

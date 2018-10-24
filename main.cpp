@@ -4,35 +4,40 @@
 #include "InfixPostfix/InfixPostfix.h"
 #include "PostfixParseTree/PostfixParseTree.h"
 #include "TreeInfix/TreeInfix.h"
-
+/**
+ * \file main.cpp
+ * file containing the main function that is executed 
+*/
 using namespace std;
 using namespace std::chrono;
-/// \fn main function 
-/** \fn  takes input from user (a propositional logic formula in infix order in the form of a string)
+ 
+/** \fn main()
+ * \brief main function   
+ * takes input from user (a propositional logic formula in infix order in the form of a string)
  * and converts it into postfix notation and then into a parse tree\n
- * then it traverses the parse tree in inorder to obtain a infix order formula  
+ * then it traverses the parse tree in inorder to obtain a infix order formula.\n 
+ * then it prints to display postfix and infix formula and time taken to execute the program after user has given input\n
+ 
 */
+
 int main(){
     string formula; //<variable that is assigned to user inputted logical formula is declared*/
     cin>>formula;
 
     auto start=high_resolution_clock::now();// starts clock after user provides input
 
-    int len=formula.length(); ///< len = variable that is assigned the value of length of user inputted formula*/
-    char forArray[len+1];  ///< defining character array of length len */
-    ///copying formula parsed into string into character array
+    int len=formula.length(); // len = variable that is assigned the value of length of user inputted formula*/
+    char forArray[len+1];  // defining character array of length len */
+    //copying formula parsed into string into character array
     strcpy(forArray,formula.c_str());
     
-// Conversion of infix formula  to postfix
-/*
- * using class InfixPostfix and methods defined in it 
- * we convert user given infix statement to postfix statement */ 
+
     InfixPostfix infixPostfix(len,forArray);
     string postFix=infixPostfix.getPostFix();
     int l2=postFix.length();
 
-// Conversion of postfix to parse tree
-/*
+/* 
+ * Conversion of postfix to parse tree
  * using class PostfixParseTree and its methods 
  * We convert the postfix expression derived from user given infix formula 
  * into a parse tree  */ 
