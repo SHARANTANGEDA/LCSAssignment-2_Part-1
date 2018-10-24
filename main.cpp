@@ -6,13 +6,13 @@
 
 using namespace std;
 
-/* main function */
+/**main function */
 int main(){
-    string formula; /*<variable that is assigned to user inputted logical formula is declared*/
+    string formula; ///<variable that is assigned to user inputted logical formula is declared*/
     cin>>formula;
 
-    int len=formula.length(); /*< len = variable that is assigned the value of length of user inputted formula*/
-    char forArray[len+1];  /*< defining character array of length len */
+    int len=formula.length(); ///< len = variable that is assigned the value of length of user inputted formula*/
+    char forArray[len+1];  ///< defining character array of length len */
     ///copying formula parsed into string into character array
     strcpy(forArray,formula.c_str());
     

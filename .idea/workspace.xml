@@ -12,42 +12,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54692ad8-11f1-4e00-a2de-d4637598aea6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/My Project_ Main Page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assp1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assp1.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assp1.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_c_make_c_compiler_id_8c_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_c_make_c_x_x_compiler_id_8cpp_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_infix_postfix_8cpp_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_infix_postfix_8h_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_postfix_parse_tree_8cpp_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_postfix_parse_tree_8h_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_tree_infix_8cpp_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_tree_infix_8h_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/annotated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/annotated_dup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/bc_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/bdwn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_tree_infix-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_tree_infix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_tree_infix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_12a955fb7d7f863600bc900f3898fb4c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_12a955fb7d7f863600bc900f3898fb4c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_2e798d32242ddfb8ecd980490144d408.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_2e798d32242ddfb8ecd980490144d408.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_86e4bcfedf98b4f2f913dfc0904814aa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_86e4bcfedf98b4f2f913dfc0904814aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_df4f3fa4e397b2e19067615fcfe71864.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_df4f3fa4e397b2e19067615fcfe71864.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_f75e83b1315c93dc74b3cc2209b081ef.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_f75e83b1315c93dc74b3cc2209b081ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doxygen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doxygen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dynsections.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/feature__tests_8c_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/feature__tests_8cxx_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/files_dup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/folderclosed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/folderopen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/functions_func.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/main_8cpp_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/menudata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nav_f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nav_g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nav_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtreedata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtreeindex0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/mag_sel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/nomatches.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search_l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search_m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/searchdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/splitbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/struct_node-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/struct_node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/struct_node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sync_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sync_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tabs.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,6 +134,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
     <session id="-1019446583">
@@ -63,7 +155,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -76,6 +169,18 @@
           <entry key="ObjectiveC" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
     </session>
     <session id="963958153">
       <usages-collector id="statistics.lifecycle.project">
@@ -116,8 +221,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+            <state relative-caret-position="561">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -128,26 +233,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TreeInfix/TreeInfix.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="221">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+            <state relative-caret-position="623">
+              <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1332">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="120">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -161,9 +266,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp" />
         <option value="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" />
         <option value="$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp" />
+        <option value="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp" />
       </list>
     </option>
   </component>
@@ -177,7 +282,7 @@
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
-    <option name="height" value="969" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -201,6 +306,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,16 +349,18 @@
       <workItem from="1540288676317" duration="698000" />
       <workItem from="1540357846637" duration="315000" />
       <workItem from="1540358176952" duration="1127000" />
+      <workItem from="1540359578807" duration="2236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2140000" />
+    <option name="totallyTimeSpent" value="4376000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25697425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,12 +374,12 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32998884" />
-      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,32 +405,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        <state relative-caret-position="561">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1332">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TreeInfix/TreeInfix.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        <state relative-caret-position="623">
+          <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
