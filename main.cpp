@@ -23,7 +23,6 @@ int main(){
     InfixPostfix infixPostfix(len,forArray);
     string postFix=infixPostfix.getPostFix();
     int l2=postFix.length();
-    cout<<__LINE__<<endl;
 
 /// Conversion of postfix to parse tree
 /**
@@ -32,7 +31,6 @@ int main(){
  * into a parse tree  */ 
     PostfixParseTree parseTree(l2,postFix);
     Node *rootedBinaryTree=parseTree.getTree();
-    cout<<__LINE__<<endl;
 
 ///obtaining infix representation from parse tree
 /**
@@ -42,10 +40,8 @@ int main(){
 */
     TreeInfix treeInfix(rootedBinaryTree);
     string infixString=treeInfix.getInfix();
-    cout<<__LINE__<<endl;
 ///here we print the derived postfix formula
-    cout<<"1."<<postFix<<endl;
-///here we print the infix formula brought by in-order traversal of parse tree 
-    cout<<"2."<<infixString<<endl;
+///here we print the infix formula brought by in-order traversal of parse tree
+    cout<<"Infix String is: "<<infixString<<endl;
     return 0;
 }

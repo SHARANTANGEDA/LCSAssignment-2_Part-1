@@ -8,100 +8,104 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug"/>
+				<Option working_dir="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug"/>
+				<Option working_dir="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Assp1">
-				<Option output="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Assp1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assp1"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Assp1/fast">
-				<Option output="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Assp1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assp1/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug"/>
+				<Option working_dir="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assp1">
+				<Option output="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Assp1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assp1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assp1/fast">
+				<Option output="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Assp1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assp1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/InfixPostfix/InfixPostfix.cpp">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/InfixPostfix/InfixPostfix.cpp">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/InfixPostfix/InfixPostfix.h">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/InfixPostfix/InfixPostfix.h">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/PostfixParseTree/PostfixParseTree.cpp">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/PostfixParseTree/PostfixParseTree.cpp">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/PostfixParseTree/PostfixParseTree.h">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/PostfixParseTree/PostfixParseTree.h">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/TreeInfix/TreeInfix.cpp">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/TreeInfix/TreeInfix.cpp">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/TreeInfix/TreeInfix.h">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/TreeInfix/TreeInfix.h">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/main.cpp">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/main.cpp">
 			<Option target="Assp1"/>
 		</Unit>
-		<Unit filename="C:/Users/Vamsi Adapa/Desktop/assn_lcs/Assp1/CMakeLists.txt">
+		<Unit filename="/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

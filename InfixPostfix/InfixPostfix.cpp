@@ -78,7 +78,7 @@ InfixPostfix::InfixPostfix(int len, char arr[])
     string print = post.str(); ///<creating a variable 'string' that is assigned to the string stored in the stringstream 'post'.  
     postfix=print; //?<assigning print to instance variable postfix; 
 
-    cout << "post fix is "<<print << endl; ///<printing the required post fix value 
+    cout << "PostFix is: "<<print << endl; ///<printing the required post fix value
 }
 
 ///defining the function for precedence(a switch function with 5 cases)  

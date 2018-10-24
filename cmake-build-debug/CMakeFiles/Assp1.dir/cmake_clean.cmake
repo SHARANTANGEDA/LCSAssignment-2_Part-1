@@ -1,12 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Assp1.dir/main.cpp.obj"
-  "CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.obj"
-  "CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.obj"
-  "CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.obj"
+  "CMakeFiles/Assp1.dir/main.cpp.o"
+  "CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o"
+  "CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o"
+  "CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o"
   "Assp1.pdb"
-  "Assp1.exe"
-  "Assp1.exe.manifest"
-  "libAssp1.dll.a"
+  "Assp1"
 )
 
 # Per-language clean rules from dependency scanning.

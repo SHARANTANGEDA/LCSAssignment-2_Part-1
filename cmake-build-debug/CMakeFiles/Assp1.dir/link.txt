@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Assp1.dir/objects.a
-C:\PROGRA~1\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\Assp1.dir/objects.a @CMakeFiles\Assp1.dir\objects1.rsp
-C:\PROGRA~1\mingw-w64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Assp1.dir/objects.a -Wl,--no-whole-archive  -o Assp1.exe -Wl,--out-implib,libAssp1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Assp1.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/Assp1.dir/main.cpp.o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o  -o Assp1 
