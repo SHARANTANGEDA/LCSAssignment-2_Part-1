@@ -14,6 +14,7 @@
 class TreeInfix {
     string infix;
     stringstream store;
+    stringstream stream;
 public:
     TreeInfix(Node *tree);
     string getInfix();
