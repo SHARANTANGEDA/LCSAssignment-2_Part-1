@@ -21,7 +21,7 @@ struct Node {
 };
 
 
-/// creating class PostfixParsetree
+/// class named PostfixParsetree
 /**
  * this class contains the methods that will be used to
  * convert a postfix expression to a parse tree

@@ -1,15 +1,19 @@
 #include <iostream>
 #include <cstring>
+#include <chrono>
 #include "InfixPostfix/InfixPostfix.h"
 #include "PostfixParseTree/PostfixParseTree.h"
 #include "TreeInfix/TreeInfix.h"
 
 using namespace std;
+using namespace std::chrono;
 
 /**main function */
 int main(){
     string formula; ///<variable that is assigned to user inputted logical formula is declared*/
     cin>>formula;
+
+    auto start=high_resolution_clock::now();
 
     int len=formula.length(); ///< len = variable that is assigned the value of length of user inputted formula*/
     char forArray[len+1];  ///< defining character array of length len */
@@ -43,5 +47,11 @@ int main(){
 ///here we print the derived postfix formula
 ///here we print the infix formula brought by in-order traversal of parse tree
     cout<<"Infix String is: "<<infixString<<endl;
+
+     auto stop = high_resolution_clock::now();
+
+    auto duration = duration_cast<microseconds>(stop - start);
+    cout << "Run Time is " << duration.count() << " microseconds" << endl;
+
     return 0;
 }
