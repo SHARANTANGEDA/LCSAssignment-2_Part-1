@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assp1.dir/main.cpp.o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o  -o Assp1.exe -Wl,--out-implib,libAssp1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++  -g   CMakeFiles/Assp1.dir/main.cpp.o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o  -o Assp1 
