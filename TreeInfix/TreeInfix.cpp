@@ -33,6 +33,7 @@ TreeInfix::TreeInfix(Node *tree) {
         stream<<*i;
     }
         infix=stream.str();
+
 }
 
 /**
@@ -47,9 +48,7 @@ void TreeInfix::traverseInOrder(Node *tree) {
 
             store<<tree->data;
         traverseInOrder(tree->left);
-
-
-
+        store<<")";
     }
 
 }
