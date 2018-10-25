@@ -11,7 +11,7 @@ using namespace std;
 
 /**
  * @param len - integer representing length of second input parameter of constructor (a character string)
- * @param arr[] 
+ * @param arr -character array representin a formula
 */
 InfixPostfix::InfixPostfix(int len, char arr[]) 
 {
@@ -81,7 +81,7 @@ InfixPostfix::InfixPostfix(int len, char arr[])
     string print = post.str(); //creating a variable 'string' that is assigned to the string stored in the stringstream 'post'.  
     postfix=print; //assigning print to instance variable postfix; 
 
-    cout << "PostFix is: "<<print << endl; ///<printing the required post fix value
+    cout << "PostFix is: "<<print << endl; //<printing the required post fix value
 }
 
 
