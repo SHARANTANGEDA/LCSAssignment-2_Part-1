@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/sharan/CandCppprogramming/CLion/clion-2018.2.4/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/kandu/.CLion2018.2/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /home/sharan/CandCppprogramming/CLion/clion-2018.2.4/bin/cmake/linux/bin/cmake -E remove -f
+RM = /cygdrive/c/Users/kandu/.CLion2018.2/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sharan/CandCppprogramming/Logic_Assignment/Assp1
+CMAKE_SOURCE_DIR = /cygdrive/g/sem3/CSF214/Assp1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Assp1.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/Assp1.dir/flags.make
 
 CMakeFiles/Assp1.dir/main.cpp.o: CMakeFiles/Assp1.dir/flags.make
 CMakeFiles/Assp1.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assp1.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/main.cpp.o -c /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assp1.dir/main.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/main.cpp.o -c /cygdrive/g/sem3/CSF214/Assp1/main.cpp
 
 CMakeFiles/Assp1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assp1.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/main.cpp > CMakeFiles/Assp1.dir/main.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/g/sem3/CSF214/Assp1/main.cpp > CMakeFiles/Assp1.dir/main.cpp.i
 
 CMakeFiles/Assp1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assp1.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/main.cpp -o CMakeFiles/Assp1.dir/main.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/g/sem3/CSF214/Assp1/main.cpp -o CMakeFiles/Assp1.dir/main.cpp.s
 
 CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o: CMakeFiles/Assp1.dir/flags.make
 CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o: ../InfixPostfix/InfixPostfix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o -c /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/InfixPostfix/InfixPostfix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o -c /cygdrive/g/sem3/CSF214/Assp1/InfixPostfix/InfixPostfix.cpp
 
 CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/InfixPostfix/InfixPostfix.cpp > CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/g/sem3/CSF214/Assp1/InfixPostfix/InfixPostfix.cpp > CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.i
 
 CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/InfixPostfix/InfixPostfix.cpp -o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/g/sem3/CSF214/Assp1/InfixPostfix/InfixPostfix.cpp -o CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.s
 
 CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o: CMakeFiles/Assp1.dir/flags.make
 CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o: ../PostfixParseTree/PostfixParseTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o -c /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/PostfixParseTree/PostfixParseTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o -c /cygdrive/g/sem3/CSF214/Assp1/PostfixParseTree/PostfixParseTree.cpp
 
 CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/PostfixParseTree/PostfixParseTree.cpp > CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/g/sem3/CSF214/Assp1/PostfixParseTree/PostfixParseTree.cpp > CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.i
 
 CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/PostfixParseTree/PostfixParseTree.cpp -o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/g/sem3/CSF214/Assp1/PostfixParseTree/PostfixParseTree.cpp -o CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.s
 
 CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o: CMakeFiles/Assp1.dir/flags.make
 CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o: ../TreeInfix/TreeInfix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o -c /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/TreeInfix/TreeInfix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o -c /cygdrive/g/sem3/CSF214/Assp1/TreeInfix/TreeInfix.cpp
 
 CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/TreeInfix/TreeInfix.cpp > CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/g/sem3/CSF214/Assp1/TreeInfix/TreeInfix.cpp > CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.i
 
 CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/TreeInfix/TreeInfix.cpp -o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/g/sem3/CSF214/Assp1/TreeInfix/TreeInfix.cpp -o CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.s
 
 # Object files for target Assp1
 Assp1_OBJECTS = \
@@ -119,17 +119,17 @@ Assp1_OBJECTS = \
 # External object files for target Assp1
 Assp1_EXTERNAL_OBJECTS =
 
-Assp1: CMakeFiles/Assp1.dir/main.cpp.o
-Assp1: CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o
-Assp1: CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o
-Assp1: CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o
-Assp1: CMakeFiles/Assp1.dir/build.make
-Assp1: CMakeFiles/Assp1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Assp1"
+Assp1.exe: CMakeFiles/Assp1.dir/main.cpp.o
+Assp1.exe: CMakeFiles/Assp1.dir/InfixPostfix/InfixPostfix.cpp.o
+Assp1.exe: CMakeFiles/Assp1.dir/PostfixParseTree/PostfixParseTree.cpp.o
+Assp1.exe: CMakeFiles/Assp1.dir/TreeInfix/TreeInfix.cpp.o
+Assp1.exe: CMakeFiles/Assp1.dir/build.make
+Assp1.exe: CMakeFiles/Assp1.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Assp1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Assp1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/Assp1.dir/build: Assp1
+CMakeFiles/Assp1.dir/build: Assp1.exe
 
 .PHONY : CMakeFiles/Assp1.dir/build
 
@@ -138,6 +138,6 @@ CMakeFiles/Assp1.dir/clean:
 .PHONY : CMakeFiles/Assp1.dir/clean
 
 CMakeFiles/Assp1.dir/depend:
-	cd /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sharan/CandCppprogramming/Logic_Assignment/Assp1 /home/sharan/CandCppprogramming/Logic_Assignment/Assp1 /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug /home/sharan/CandCppprogramming/Logic_Assignment/Assp1/cmake-build-debug/CMakeFiles/Assp1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/g/sem3/CSF214/Assp1 /cygdrive/g/sem3/CSF214/Assp1 /cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug /cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug /cygdrive/g/sem3/CSF214/Assp1/cmake-build-debug/CMakeFiles/Assp1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Assp1.dir/depend
 
