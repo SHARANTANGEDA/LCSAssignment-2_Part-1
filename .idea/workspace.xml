@@ -11,54 +11,284 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54692ad8-11f1-4e00-a2de-d4637598aea6" name="Default Changelist" comment="Changed Colour in Hyperlink&#10;#Adds complete">
+    <list default="true" id="54692ad8-11f1-4e00-a2de-d4637598aea6" name="Default Changelist" comment="*Final Push* No bugs Remain">
+      <change afterPath="$PROJECT_DIR$/Documentation/HomePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Test_Case-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Test_Case-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Test_Case-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Test_Case-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Test_Case-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/_infix_postfix_8h_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/_postfix_parse_tree_8h_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/_tree_infix_8h_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/annotated.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/annotated_dup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/bc_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/bdwn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_infix_postfix-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_infix_postfix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_infix_postfix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_postfix_parse_tree-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_postfix_parse_tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_postfix_parse_tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_tree_infix-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_tree_infix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/class_tree_infix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_0e31183fa8dd5342a8c49b8fee0d905c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_0e31183fa8dd5342a8c49b8fee0d905c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_12a955fb7d7f863600bc900f3898fb4c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_2e798d32242ddfb8ecd980490144d408.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_90fc8a700d5f61421543e762215554c9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_90fc8a700d5f61421543e762215554c9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_d238c43d90702911d5e3a97d532a7d90.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_d238c43d90702911d5e3a97d532a7d90.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_eb38493a0ae6a86214d7fb3dcea26cc4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dir_eb38493a0ae6a86214d7fb3dcea26cc4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/doxygen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/doxygen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/dynsections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/files_dup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/folderclosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/folderopen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/functions_func.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/functions_vars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/globals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/globals_func.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/main_8cpp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/main_8cpp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/menudata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/nav_f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/nav_g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/nav_h (copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/nav_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/navtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/navtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/navtreedata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/navtreeindex0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/all_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/classes_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/files_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/files_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/functions_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/mag_sel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/nomatches.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/search_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/search_m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/search_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/searchdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/variables_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/variables_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/variables_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/variables_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/variables_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search/variables_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/splitbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/struct_node-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/struct_node.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/struct_node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/sync_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/sync_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/tab_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/tab_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/tab_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/tab_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/Test_Case-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/Test_Case-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/Test_Case-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/Test_Case-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/Test_case-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/doxygen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/dynsections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/nav_f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/nav_g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/nav_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/navtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/navtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/navtreedata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/splitbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/tab_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/tab_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/tab_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/tab_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observations/tabs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreeInfix/TreeInfix.h" beforeDir="false" afterPath="$PROJECT_DIR$/TreeInfix/TreeInfix.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_c_make_c_compiler_id_8c_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_c_make_c_x_x_compiler_id_8cpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_infix_postfix_8cpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_infix_postfix_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/_infix_postfix_8h_source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_postfix_parse_tree_8cpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_postfix_parse_tree_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/_postfix_parse_tree_8h_source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_tree_infix_8cpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/_tree_infix_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/_tree_infix_8h_source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/annotated.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/class_infix_postfix.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/class_postfix_parse_tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/class_tree_infix.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/class_tree_infix.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_12a955fb7d7f863600bc900f3898fb4c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_2e798d32242ddfb8ecd980490144d408.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_86e4bcfedf98b4f2f913dfc0904814aa.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_86e4bcfedf98b4f2f913dfc0904814aa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_df4f3fa4e397b2e19067615fcfe71864.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_df4f3fa4e397b2e19067615fcfe71864.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_f75e83b1315c93dc74b3cc2209b081ef.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_f75e83b1315c93dc74b3cc2209b081ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dynsections.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/dynsections.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/feature__tests_8c_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/feature__tests_8cxx_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/files.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/main_8cpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/menudata.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/menudata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/navtreedata.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/navtreedata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/navtreeindex0.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/navtreeindex0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/all_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/all_5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/all_6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/all_7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/functions_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/functions_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/functions_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/functions_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/functions_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/functions_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/searchdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/search/searchdata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/struct_node.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/struct_node.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Observations/Test_Case-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Observations/Test_Case-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Observations/Test_Case-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Observations/Test_Case-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Observations/Test_case-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_infix_postfix_8h_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_postfix_parse_tree_8h_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/_tree_infix_8h_source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/annotated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/annotated_dup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/bc_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/bdwn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_infix_postfix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_postfix_parse_tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_tree_infix-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_tree_infix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/class_tree_infix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_12a955fb7d7f863600bc900f3898fb4c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_2e798d32242ddfb8ecd980490144d408.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doxygen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doxygen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dynsections.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/files_dup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/folderclosed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/folderopen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/functions_func.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/functions_vars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/globals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/globals_func.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/main_8cpp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/main_8cpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/menudata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nav_f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nav_g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nav_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtreedata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navtreeindex0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/all_8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/classes_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/files_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/files_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/functions_5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/mag_sel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/nomatches.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search_l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search_m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/search_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/searchdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/variables_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/variables_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/variables_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/variables_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/variables_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/search/variables_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/splitbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/struct_node-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/struct_node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/struct_node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sync_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sync_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tab_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tabs.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,13 +335,11 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cpp" value="5" />
-          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="ObjectiveC" value="5" />
-          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -120,17 +348,18 @@
     <session id="963958153">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="4" />
-          <entry key="h" value="1" />
-          <entry key="html" value="6" />
+          <entry key="cpp" value="5" />
+          <entry key="h" value="2" />
+          <entry key="html" value="34" />
           <entry key="js" value="2" />
           <entry key="txt" value="2" />
         </counts>
@@ -139,24 +368,24 @@
         <counts>
           <entry key="CMakeCache.txt" value="1" />
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="HTML" value="6" />
+          <entry key="HTML" value="34" />
           <entry key="JavaScript" value="2" />
-          <entry key="ObjectiveC" value="5" />
+          <entry key="ObjectiveC" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cpp" value="943" />
           <entry key="h" value="69" />
-          <entry key="html" value="77" />
-          <entry key="txt" value="30" />
+          <entry key="html" value="396" />
+          <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="77" />
+          <entry key="HTML" value="396" />
           <entry key="ObjectiveC" value="1012" />
-          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="PLAIN_TEXT" value="101" />
         </counts>
       </usages-collector>
     </session>
@@ -166,8 +395,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="-252">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -175,65 +404,82 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="132" selection-start-line="129" selection-start-column="4" selection-end-line="132" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Observations/Test_case-3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="132" selection-start-line="132" selection-end-line="132" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="132" selection-start-line="132" selection-end-line="132" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp">
+        <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="533">
+              <caret line="136" lean-forward="true" selection-start-line="133" selection-start-column="4" selection-end-line="136" />
+              <folding>
+                <element signature="e#1713#1741#0" expanded="true" />
+                <element signature="e#5147#5170#0" expanded="true" />
+                <element signature="e#5178#5224#0" expanded="true" />
+                <element signature="e#5167#5191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/index.html">
+        <entry file="file://$PROJECT_DIR$/Documentation/HomePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2346">
-              <caret line="138" column="26" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
+            <state relative-caret-position="497">
+              <caret line="135" column="43" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+              <folding>
+                <element signature="e#5034#5060#0" expanded="true" />
+                <element signature="e#5087#5133#0" expanded="true" />
+                <element signature="e#5138#5160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+              <folding>
+                <element signature="e#5038#5064#0" expanded="true" />
+                <element signature="e#5091#5137#0" expanded="true" />
+                <element signature="e#5142#5164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+              <folding>
+                <element signature="e#5051#5077#0" expanded="true" />
+                <element signature="e#5104#5150#0" expanded="true" />
+                <element signature="e#5155#5177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+              <folding>
+                <element signature="e#5048#5074#0" expanded="true" />
+                <element signature="e#5101#5147#0" expanded="true" />
+                <element signature="e#5152#5174#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -241,7 +487,6 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -251,13 +496,24 @@
         <option value="$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp" />
         <option value="$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp" />
         <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" />
+        <option value="$PROJECT_DIR$/TreeInfix/TreeInfix.h" />
+        <option value="$PROJECT_DIR$/Observations/Test_Case-2.html" />
+        <option value="$PROJECT_DIR$/Observations/Test_Case-5.html" />
+        <option value="$PROJECT_DIR$/Observations/Test_Case-4.html" />
+        <option value="$PROJECT_DIR$/Observations/Test_case-3.html" />
         <option value="$PROJECT_DIR$/html/Observations/Test_Case-1.html" />
         <option value="$PROJECT_DIR$/html/Observations/Test_Case-2.html" />
         <option value="$PROJECT_DIR$/html/Observations/Test_case-3.html" />
         <option value="$PROJECT_DIR$/html/Observations/Test_Case-4.html" />
         <option value="$PROJECT_DIR$/html/Observations/Test_Case-5.html" />
-        <option value="$PROJECT_DIR$/TreeInfix/TreeInfix.cpp" />
-        <option value="$PROJECT_DIR$/TreeInfix/TreeInfix.h" />
+        <option value="$PROJECT_DIR$/Observations/Test_Case-1.html" />
+        <option value="$PROJECT_DIR$/Documentation/HomePage.html" />
+        <option value="$PROJECT_DIR$/Documentation/Test_Case-1.html" />
+        <option value="$PROJECT_DIR$/Documentation/Test_Case-2.html" />
+        <option value="$PROJECT_DIR$/Documentation/Test_Case-4.html" />
+        <option value="$PROJECT_DIR$/Documentation/Test_Case-3.html" />
+        <option value="$PROJECT_DIR$/Documentation/Test_Case-5.html" />
       </list>
     </option>
   </component>
@@ -267,17 +523,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="32" />
+    <option name="width" value="960" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,19 +544,17 @@
             <path>
               <item name="Assp1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assp1" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="InfixPostfix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assp1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assp1" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="Observations" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeInfix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,10 +577,41 @@
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.h</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/TreeInfix/TreeInfix.cpp</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/TreeInfix/TreeInfix.h</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/Observations/Test_Case-1.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/Observations/Test_Case-2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/Observations/Test_Case-4.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/Observations/Test_Case-5.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/Observations/Test_case-3.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_infix_postfix_8h_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_postfix_parse_tree_8h_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_tree_infix_8h_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/annotated.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/class_infix_postfix.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/class_postfix_parse_tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/class_tree_infix.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_0e31183fa8dd5342a8c49b8fee0d905c.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_90fc8a700d5f61421543e762215554c9.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_d238c43d90702911d5e3a97d532a7d90.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_eb38493a0ae6a86214d7fb3dcea26cc4.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dynsections.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/files.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/menudata.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/navtreedata.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/navtreeindex0.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/all_4.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/all_5.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/all_6.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/all_7.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/functions_2.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/functions_3.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/functions_4.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/searchdata.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/struct_node.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/main.cpp</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -334,6 +619,16 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/globals.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/globals_func.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/main_8cpp.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/main_8cpp.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/all_8.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/all_8.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/files_0.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/files_0.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/functions_5.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/search/functions_5.js</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -341,6 +636,22 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_c_make_c_compiler_id_8c_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_c_make_c_x_x_compiler_id_8cpp_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_infix_postfix_8cpp_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_postfix_parse_tree_8cpp_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/_tree_infix_8cpp_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_12a955fb7d7f863600bc900f3898fb4c.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_2e798d32242ddfb8ecd980490144d408.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_86e4bcfedf98b4f2f913dfc0904814aa.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_86e4bcfedf98b4f2f913dfc0904814aa.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_df4f3fa4e397b2e19067615fcfe71864.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_df4f3fa4e397b2e19067615fcfe71864.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_f75e83b1315c93dc74b3cc2209b081ef.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/dir_f75e83b1315c93dc74b3cc2209b081ef.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/feature__tests_8c_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/feature__tests_8cxx_source.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/html/main_8cpp_source.html</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -466,7 +777,8 @@
       <workItem from="1540359578807" duration="2236000" />
       <workItem from="1540400124546" duration="1559000" />
       <workItem from="1540401699121" duration="1727000" />
-      <workItem from="1540403442648" duration="3117000" />
+      <workItem from="1540403442648" duration="3608000" />
+      <workItem from="1540432855867" duration="3863000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Colour in Hyperlink">
       <created>1540390501971</created>
@@ -475,26 +787,32 @@
       <option name="project" value="LOCAL" />
       <updated>1540390501971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final Bug in Infix brackets Fixed">
+      <created>1540406618020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540406618020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14656000" />
+    <option name="totallyTimeSpent" value="18122000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21409395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21995708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -537,7 +855,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed Colour in Hyperlink" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Colour in Hyperlink" />
+    <MESSAGE value="Final Bug in Infix brackets Fixed" />
+    <MESSAGE value="*Final Push* No bugs Remain" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Final Push* No bugs Remain" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
@@ -556,65 +876,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PostfixParseTree/PostfixParseTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="120">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/My Project_ Main Page_files/navtree.js" />
     <entry file="file://$PROJECT_DIR$/html/My Project_ Main Page_files/searchdata.js" />
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Observations/Test_case-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2346">
-          <caret line="138" column="26" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" selection-start-line="129" selection-start-column="4" selection-end-line="132" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InfixPostfix/InfixPostfix.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -622,17 +890,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TreeInfix/TreeInfix.h">
+    <entry file="file://$PROJECT_DIR$/Observations/Test_Case-5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="396">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observations/Test_Case-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observations/Test_Case-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observations/Test_case-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="113" column="27" lean-forward="true" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Observations/Test_case-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Observations/Test_Case-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Observations/Test_Case-3.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Observations/Test_Case-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observations/Test_Case-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2412">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="135" column="43" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#5034#5060#0" expanded="true" />
+            <element signature="e#5087#5133#0" expanded="true" />
+            <element signature="e#5138#5160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#5051#5077#0" expanded="true" />
+            <element signature="e#5104#5150#0" expanded="true" />
+            <element signature="e#5155#5177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#5038#5064#0" expanded="true" />
+            <element signature="e#5091#5137#0" expanded="true" />
+            <element signature="e#5142#5164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#5048#5074#0" expanded="true" />
+            <element signature="e#5101#5147#0" expanded="true" />
+            <element signature="e#5152#5174#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeInfix/TreeInfix.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="-36">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeInfix/TreeInfix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Test_Case-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="136" lean-forward="true" selection-start-line="133" selection-start-column="4" selection-end-line="136" />
+          <folding>
+            <element signature="e#1713#1741#0" expanded="true" />
+            <element signature="e#5147#5170#0" expanded="true" />
+            <element signature="e#5178#5224#0" expanded="true" />
+            <element signature="e#5167#5191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
